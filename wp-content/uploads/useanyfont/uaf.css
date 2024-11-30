@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'rolleon';
+					src: url('/wp-content/uploads/useanyfont/5885Rolleon.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5885Rolleon.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.rolleon{font-family: 'rolleon' !important;}
+
+		
